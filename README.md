@@ -11,3 +11,5 @@ feature/rebase-1: 3 add line
 
 1111111
 2222222
+
+no-update 1
